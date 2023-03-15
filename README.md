@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a portfolio project to showcase my skills as a Data Analyst.
 - 🌱 I’m currently learning Data Wrangling with SQL.
-- 👯 I’m looking to collaborate on group projects and work with non-profits.
+- 👯 I’m looking to collaborate on group projects for volunteer organizations.
 - ✨ I'm open to Junior Data Analyst roles and internship opportunities.
 - 🤔 I’m looking for help with analyzing data with Python and R.
 - 💬 Ask me about Data Analysis, Excel, PowerBI, SQL and Tableau.
