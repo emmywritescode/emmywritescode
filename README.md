@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on group projects for volunteer organizations.
 - ✨ I'm open to Junior Data Analyst roles and internship opportunities.
 - 🤔 I’m looking for help with analyzing data with Python and R.
-- 💬 Ask me about Data Analysis, Excel, PowerBI, SQL and Tableau.
+- 💬 Ask me about Data Analysis, Data Visualization and Data Insights.
 - 📫 How to reach me: https://www.linkedin.com/in/e-balogun and https://www.twitter.com/justadedeji
 - 😄 Pronouns: He and Him
 - ⚡ Fun fact: Setting SMART goals can significantly increase your chances of achieving them. Set a SMART goal today!
