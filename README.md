@@ -2,7 +2,7 @@
 
 #### I'm an aspiring data analyst transitioning from a career in the construction industry. I have a unique approach to problem-solving and a passion for data analysis.
 
-- 🔭 I’m currently working on a portfolio project to showcase my skills as a Data Analyst.
+- 🔭 I’m dedicated to enhancing my skills through practical project work.
 - 🌱 I’m currently learning Data Wrangling with SQL.
 - 👯 I’m looking to collaborate on group projects that involve analyzing complex data sets and deriving meaningful insights to inform strategic decision-making.
 - ✨ I'm open to Junior Data Analyst roles and internship opportunities.
