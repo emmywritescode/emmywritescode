@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Emmanuel Balogun
 
-#### I'm an aspiring data analyst with a unique approach to problem-solving and a passion for data analysis.
+#### I'm a data analyst with a unique approach to problem-solving and a passion for data analysis.
 
 - 🔭 I’m dedicated to enhancing my skills through practical project work.
 - 🌱 I am currently learning Pandas for data analysis using Python.
